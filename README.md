@@ -1,3 +1,7 @@
+# Description
+A chatbot server written in GoLang where a user can create room, broadcast messages. 
+I'm building this for fun just to explore concepts such as goroutines and channels in golang. 
+
 # Commands
 
 - `/nick <name>` - get a name, otherwise user will staay anonymous
